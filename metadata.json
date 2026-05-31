@@ -1,0 +1,6 @@
+{
+  "name": "Daily Expense and Income Tracker",
+  "description": "An easy and flexible tool to log, visualize, and analyze daily expenses and income with smart natural language entry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
